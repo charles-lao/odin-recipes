@@ -2,7 +2,12 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+body {
+    background-color: #FDE9CA;
+}
+
 .recipe-image{
     width: auto;
     height: 350px;
 }
+
